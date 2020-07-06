@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 da591fb5f6ed08129068e227610706cb  /opt/airflow/setup.py
+=======
+59a2ace72cb370b01f508527f44f3249  /opt/airflow/setup.py
+>>>>>>> 10abfe57c... Update some dependencies
